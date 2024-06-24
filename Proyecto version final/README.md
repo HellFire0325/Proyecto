@@ -1,2 +1,2 @@
-# Proyecto Clon de Kahoot
+# Proyecto QuizKids
 
