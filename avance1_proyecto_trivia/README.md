@@ -1,2 +1,0 @@
-# Proyecto Clon de Kahoot
-
